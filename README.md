@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Robert Avdalimov</h1>
 <h3 align="center">26, Netanya, Israel</h3>
 
-- 👋 Hi, I’m Robert Avdalimov
 - 👀 I’m interested in Data Analytics and Data Science
 - 🌱 SQL, Python, Math
 - 📚 Currently pursuing an M.Sc. in Financial Mathematics with a focus on data technology expertise
